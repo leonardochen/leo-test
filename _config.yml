@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Engineering Diagrams
-email: engineering@cogolabs.com
+title: Sysops Diagrams
+email: sysops@cogolabs.com
 description: > # this means to ignore newlines until "baseurl:"
-  <a href="https://git.cogolo.net/eng/diagrams">edit site</a>
-baseurl: "/eng/diagrams" # the subpath of your site, e.g. /blog
+  <a href="https://git.cogolo.net/sysops/diagrams">edit site</a>
+baseurl: "/sysops/diagrams" # the subpath of your site, e.g. /blog
 url: "https://pages.git.cogolo.net" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: eng
-author: Cogo Labs Engineering
+github_username: sysops
+author: Cogo Labs Sysops
 
 # Build settings
 markdown: kramdown
